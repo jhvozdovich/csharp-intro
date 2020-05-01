@@ -34,4 +34,4 @@ _Have a bug or an issue with this application? [Open a new issue](https://github
 
 This software is licensed under the MIT license.
 
-Copyright (c) 2020 **_Jessica Hvozdovich and Nathan Watkins-Hoagland_**
+Copyright (c) 2020 **_Jessica Hvozdovich_**
