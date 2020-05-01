@@ -2,16 +2,16 @@ using System;
 
 class MealTime
 {
+  static void MealInputOutput(string meal)
+  {
+    Console.WriteLine("What did you eat for " + meal + "?");
+    string mealInput = Console.ReadLine();
+    Console.WriteLine("You had " + mealInput + " for " + meal + ".");
+  }
   static void Main()
   {
-    Console.WriteLine("What did you eat for breakfast?");
-    string breakfast = Console.ReadLine();
-    Console.WriteLine("You had " + breakfast + " for breakfast.");
-    Console.WriteLine("What did you have for lunch?");
-    string lunch = Console.ReadLine();
-    Console.WriteLine("You had " + lunch + " for lunch.");
-    Console.WriteLine("What did you have for dinner?");
-    string dinner = Console.ReadLine();
-    Console.WriteLine("You had " + dinner + " for dinner.");
+    MealInputOutput("breakfast");
+    MealInputOutput("lunch");
+    MealInputOutput("dinner");
   }
 }
