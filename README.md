@@ -6,7 +6,7 @@
 
 ## Description
 
-_A project to introduce me to the C# language and the .NET Core framework._
+_A project to introduce me to the C# language and the .NET Core framework. The lesson explores printing to console and accepting/transforming user input with correct data types._
 
 ## Setup/Installation Requirements
 
@@ -22,7 +22,7 @@ There are no known bugs at the time of this update.
  
 ## Support and contact details
 
-_Have a bug or an issue with this application? [Open a new issue](https://github.com/jhvozdovich/c#intro/issues) here on GitHub._
+_Have a bug or an issue with this application? [Open a new issue](https://github.com/jhvozdovich/csharp-intro/issues) here on GitHub._
 
 ## Technologies Used
 
